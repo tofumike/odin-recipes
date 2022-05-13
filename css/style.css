@@ -1,0 +1,12 @@
+.title{
+    text-align: center; color:teal
+}
+html{
+    background-color: lightgray
+} 
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%
+}
