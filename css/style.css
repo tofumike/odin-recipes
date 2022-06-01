@@ -10,3 +10,25 @@ html{
     margin-right: auto;
     width: 55%
 }
+#summary{
+    border-radius: 1px;
+    box-shadow: 0px 0px 0px 8px rgba(0,0,0,0.3);
+    width: 200px;
+}
+.dough{
+    line-height: 25px;
+}
+.filling{
+    line-height: 25px;
+}
+.broth{
+    line-height: 25px;
+}
+.paragraphs{
+    word-wrap: normal;
+    width: 500px;
+    line-height: 20px;
+}
+.p{
+    line-height: 25px;
+}
